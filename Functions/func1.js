@@ -96,7 +96,7 @@ let student = {
 
 
 // 7. Arrow function
-console.log("  *********** Arrouw function ************* ")
+console.log("  *********** Arrow function ************* ")
 let studentInfo = (student) => {
     console.log(`Student name: ${student.name},  Subject: ${student.subject}`)
 }
