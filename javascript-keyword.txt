@@ -1,0 +1,109 @@
+
+1.	JavaScript:
+a.	Should understand various datatypes
+	A.	Primitive 
+		i.	String
+		ii.	Number
+		iii.	Boolean
+	B.	Non Primitive
+		i.	Object 
+		ii.	Array
+		iii.	Stack
+		iv.	Map
+		v.	Symbol
+	C.	Other concepts
+		i.	NULL
+		ii.	NAN
+		iii.	Undefined
+b.	Should understand various operators
+	A.	Logical
+		i.	AND
+		ii.	OR
+		iii.	NOT
+	B.	Arithmetic
+		i.	ADD +
+		ii.	SUB - 
+		iii.	MUL *
+		iv.	DIV /
+		v.	MODULUS %
+	C.	Bitwise
+		i.	AND
+		ii.	OR
+		iii.	NOT
+		iv.	SHIFT LEFT
+		v.	SHIFT RIGHT
+	D.	Ternary Operators
+	E.	Unary Operators
+c.	Should understand various statements
+	A.	Declaration
+		i.	Using VAR
+		ii.	Using LET, CONST
+	B.	Assignment
+		i.	Single Assignment in statement
+		ii.	Multiple Assignment
+	C.	Block
+		i.	Using {}
+	D.	Conditional and Loops
+		i.	If 
+		ii.	If Else
+		iii.	While
+		iv.	Do Until
+		v.	Switch
+		vi.	For each
+		vii.	For in
+		viii.	For I=0, t<exp; I++
+d.	Working with Objects
+	A.	Creating Empty Object
+	B.	Creating Prototypal Linked Object
+	C.	Accessing Properties (using dot, bracket [])
+	D.	Updating or Creating Property
+	E.	Role or Prototypal Object in reading and writing properties 
+	F.	Using Reflection APIs
+	G.	Serializaing/ Desrializing Object
+	H.	Object Construction and Deconstruction
+e.	Working with Array
+	A.	Creating Empty Array
+	B.	Creaing an Array with initial values
+	C.	Using Array methods: pop, push, peek
+	D.	Iterating through array for
+		i.	Filtering - filter
+		ii.	Transformation - map
+		iii.	Executing action on each item - forEach
+		iv.	Finding matching item - find
+		v.	Clubbing multiple iterations into single iteration using transducer 
+	E.	Serializaing/ Desrializing Array
+	F.	Array Construction and Deconstruction
+f.	Working with Functions
+	A.	Function structure
+		i.	Named vs anonymous functions
+		ii.	Function based on number of parameters - unary, binary, naray
+		iii.	Arguments of functions
+		iv.	Using rest operators in function arguments
+		v.	Using default values in arguments
+		vi.	Using spread operator while invoking function
+		vii.	Passing function as an argument
+	B.	Function Invocation
+		i.	Function
+		ii.	Method
+		iii.	Constructor
+		iv.	Call, Apply, and Bind
+	C.	Inheritance models/patterns using Functions
+		i.	Pseudo Classical
+		ii.	Prototypal
+		iii.	Functional
+		iv.	Reduce Functional
+		v.	Using Class Keyword
+	D.	Functional Programming
+		i.	Pure Functions
+		ii.	Composition of Functions
+		iii.	Frequently used utility methods in Functional programming
+g.	Advanced Data Types in JavaScript
+	A.	Stack
+	B.	Map
+	C.	Use of Symbol
+h.	Advance Concepts
+	A.	Iterators
+	B.	Generator Functions (using yield keyword)
+	C.	New Data Types -Uint
+	D.	Working with Buffer
+	E.	Working with Streams
