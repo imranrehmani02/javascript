@@ -1,5 +1,5 @@
 /*
-     a.A  Creating empty object:- There ate two different ways to create an empty object in javascript.
+     a.A  Creating empty object:- There are two different ways to create an empty object in javascript.
 
      1) let obj1 = {};
      2) let obj2 = new Object();
